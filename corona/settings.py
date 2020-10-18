@@ -28,7 +28,7 @@ SECRET_KEY = 'vi!)p6et96$1edbrp^_9s^cu+-()zdtx@dulh+x07dn&819^&h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.66','https://gauravissexy@coronabirudhhanepal.scm.azurewebsites.net/coronabirudhhanepal.git']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
